@@ -7,3 +7,6 @@ Requirements:
     3. Laravel
     4. phpstorm IDE
  
+Hybrid Database that uses
+    1. Mysql
+    2. MongoDB
