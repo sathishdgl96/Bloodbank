@@ -1,4 +1,4 @@
-# bloodbank
+# bloodbank Management System
  Web Application, built using php laravel, javascript, html and css
 
 ### Requirements:
@@ -17,3 +17,7 @@
     3. Ability to set priority of the blood needs
     4. Fraud prevention system - Admin has to approve any requests
     
+ ## Installation 
+ 1. Clone the repository and open it with phpstorm
+ 2. Run command ** php artisan migrate **
+ 3. Start the server **php artisan serve
