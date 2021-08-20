@@ -10,3 +10,10 @@ Requirements:
 Hybrid Database that uses
     1. Mysql
     2. MongoDB
+    
+ Features:
+    1. Both Hospitals and individuals can request a blood
+    2. Automatic tracking system 
+    3. Ability to set priority of the blood needs
+    4. Fraud prevention system - Admin has to approve any requests
+    
