@@ -19,5 +19,5 @@
     
  ## Installation 
  1. Clone the repository and open it with phpstorm
- 2. Run command ** php artisan migrate **
- 3. Start the server **php artisan serve
+ 2. Run command **php artisan migrate**
+ 3. Start the server **php artisan serve**
